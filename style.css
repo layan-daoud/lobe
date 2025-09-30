@@ -1,8 +1,4 @@
-@media (max-width: 100px){
-  h1{
-    font-size: 1100px;
-  }
-}
+
 body{
 
 }
@@ -56,9 +52,9 @@ p{
     text-align: center;
 }
 video{
-    /* width: 40rem; */
    
-    width: 60%;
+   
+    width: 65%;
    
 }
 .video-cont{
